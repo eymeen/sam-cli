@@ -1,2 +1,5 @@
-# sam-cli
-CLI for SAM (or SAMN) stack
+# SAM Stack CLI
+
+
+
+## What's sam 
