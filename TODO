@@ -1,0 +1,3 @@
+- finish the 1.0.0
+- register sam or @sam, so it's easier to install, npm i @sam/cli or npm create sam
+- add vue and react ability
