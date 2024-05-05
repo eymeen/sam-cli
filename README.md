@@ -1,4 +1,8 @@
-![SAM LOGO](https://github.com/eymeen/sam-cli/assets/30838534/f3de2ee1-3d2e-4fc6-a4e8-cd726eb08f48)
+<div align="center">
+  
+![samn cli logo](https://github.com/eymeen/sam-cli/assets/30838534/e2c38259-56c6-43b9-a0a7-40a097cf3c1d)
+
+</div>
 # SAM Stack CLI
 
 ## ⏬ Installation
